@@ -1,0 +1,7 @@
+-- This module is the root of the LittlewoodConjectureCanonicalLaneLean Lean proof package.
+import LittlewoodConjectureCanonicalLaneLean.Basic
+import LittlewoodConjectureCanonicalLaneLean.SourcePackage
+import LittlewoodConjectureCanonicalLaneLean.SourceDependencies
+import LittlewoodConjectureCanonicalLaneLean.Formalization
+import LittlewoodConjectureCanonicalLaneLean.ReviewerBridge
+import LittlewoodConjectureCanonicalLaneLean.TheoremStatement
